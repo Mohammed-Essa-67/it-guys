@@ -1,2 +1,0 @@
-# it-guys
-Web developer 
